@@ -1,0 +1,13 @@
+fastapi
+ uvicorn
+ python-multipart
+ pypdf
+ langchain-community
+ langchain-text-splitters
+ langchain-huggingface
+ sentence-transformers
+ chromadb
+ groq
+ python-dotenv
+ torch
+ langchain
